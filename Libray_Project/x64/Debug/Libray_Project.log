@@ -1,0 +1,85 @@
+﻿  Libray_Project.cpp
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsString.h(40,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsString.h(45,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsString.h(57,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsString.h(196,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsString.h(327,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsString.h(351,22): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsString.h(384,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\Libray_Project.cpp(8,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\Libray_Project.cpp(9,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsUser.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsUser.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsUser.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsUser.h(8,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsUtil.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsUtil.h(66,5): warning C4102: 'defualt': unreferenced label
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsLoginScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsSale.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsitems.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsAuther.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsitems.h(8,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsSale.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsSale.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsSale.h(8,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsClient.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsClient.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsClient.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsClient.h(8,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsBook.h(7,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsAddNewBookScreen.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsAddNewBookScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsFindItemScreen.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsFindItemScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsUpdateItemScreen.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsUpdateItemScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsMainMenueScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsMainMenueScreen.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsInventoryManagementHomeScreen.h(9,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsAddNewItemScreen.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsAddNewItemScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsDeleteItemScreen.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsDeleteItemScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsManageUsersMenueScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsManageUsersMenueScreen.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsManageUsersMenueScreen.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsListUsersScreen.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsListUsersScreen.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsManageUsersMenueScreen.h(7,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsAddNewUserScreen.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsAddNewUserScreen.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsAddNewUserScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsManageUsersMenueScreen.h(8,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsDeleteUserScreen.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsDeleteUserScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsDeleteUserScreen.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsManageUsersMenueScreen.h(9,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsUdateUserScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsUdateUserScreen.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsUdateUserScreen.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsManageUsersMenueScreen.h(10,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsFindUserScreen.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsFindUserScreen.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsFindUserScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsPaymentMetodsScreen.h(92,50): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsPaymentMetodsScreen.h(116,50): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsPaymentMetodsScreen.h(142,54): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsAddCustomerSubscriptionNumber.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsAddNewClientScreen.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsPrintInvoiceScreen.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsPendingOrdersScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\clsLoginScreen.h(24,9): warning C4129: 'T': unrecognized character escape sequence
+C:\Users\Laptop Haseb\source\repos\Libray_Project\Libray_Project\Libray_Project.cpp(154,18): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  Libray_Project.vcxproj -> C:\Users\Laptop Haseb\source\repos\Libray_Project\x64\Debug\Libray_Project.exe
